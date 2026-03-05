@@ -363,19 +363,23 @@ Banking | Operations | Supply Chain Analytics | Retail Decision-Making
 **Tools:** Python (Pandas) | SQL (SQL Server) | Tableau | ETL Pipeline Design
 
 * 🎯 **Core Metrics Tracked:** Peak Engagement Hours, Average Daily Caloric Burn, Step Volume, Sleep Efficiency.
+
 * 📌 **The Business Decision:** The product and marketing teams needed to optimize push notification timing but lacked a "Source of Truth" due to highly fragmented user data spread across 18 separate files tracking events on different timelines.
+
 * 🛠 **Technical Execution & ETL:**
-  * [cite_start]Consolidated 11 distinct raw datasets into a highly optimized Master Fact Table at the daily grain[cite: 41].
-  * [cite_start]Aggregated highly granular second-by-second heart rate and minute-by-minute METs into standardized hourly averages[cite: 78].
-  * [cite_start]Executed a `FULL OUTER JOIN` on the hourly timeline to prevent data loss, followed by a `LEFT JOIN` for daily metrics[cite: 80, 82].
-  * [cite_start]Handled missing activity with `0` and intelligently imputed missing heart rates using the user's personal historical average to protect mathematical integrity[cite: 84].
+  * Consolidated 11 distinct raw datasets into a highly optimized Master Fact Table at the daily grain.
+  * Aggregated highly granular second-by-second heart rate and minute-by-minute METs into standardized hourly averages.
+  * Executed a `FULL OUTER JOIN` on the hourly timeline to prevent data loss, followed by a `LEFT JOIN` for daily metrics.
+  * Handled missing activity with `0` and intelligently imputed missing heart rates using the user's personal historical average to protect mathematical integrity.
+
 * 📊 **Stakeholder Delivery & Outcomes:**
   * Built a 3-tier interactive Tableau dashboard tracking behavioral cadence.
-  * [cite_start]Discovered the average user records **~7,765 steps** and burns **~2,339 calories** daily[cite: 214].
-  * [cite_start]Identified that engagement volume spikes heavily in the late afternoon and early evening (**16:00 - 20:00**)[cite: 234].
+  * Discovered the average user records **~7,765 steps** and burns **~2,339 calories** daily.
+  * Identified that engagement volume spikes heavily in the late afternoon and early evening (**16:00 - 20:00**).
+
 * 💡 **Strategic Recommendations:**
-  * [cite_start]Target engagement bursts at peak hours (16:00-20:00) with short, contextual nudges[cite: 250].
-  * [cite_start]Schedule social challenges on weekends to maximize baseline participation, retention, and viral spread[cite: 251].
+  * Target engagement bursts at peak hours (16:00-20:00) with short, contextual nudges.
+  * Schedule social challenges on weekends to maximize baseline participation, retention, and viral spread.
 
 ---
 
