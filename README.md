@@ -347,47 +347,6 @@ Banking | Operations | Supply Chain Analytics | Retail Decision-Making
 ---
 
 
-Here is your reframed GitHub README. It retains all your custom badges, repository links, and visual formatting while radically restructuring the narrative to align with the "Metrics-First" and "AI-Proof" strategies from the videos.
-
-It organizes your portfolio by business domain, leads with Northstar KPIs, and heavily emphasizes your strategic business judgment using the exact technical execution and insights detailed in your project reports.
-
----
-
-## 👋 Hi, I'm Tathagata Chakraborty
-
-I am a **Business Intelligence & Operations Analyst** bridging the gap between raw data and executive decision-making. Operating with a "Data Product Manager" mindset, my background in business banking and data analytics, supporting MSME clients at ICICI Bank, developed my strengths in understanding financial risk, operational bottlenecks, and the core metrics that drive business value.
-
-I focus on converting fragmented, real-world data into actionable insights that support **business decisions, operational efficiency, and measurable outcomes**.
-
----
-
-## 🚀 About Me
-
-* 🎓 **Education:** Post Graduate Diploma in Management in Operations and Analytics from International Management Institute Kolkata. Masters of Technology in Power Systems from Narula Institute of Technology.
-* 🏦 **Background:** Former ICICI Bank professional (Asset and Liability Intern & Business Banking).
-* 📊 **Technical Stack:** Advanced proficiency in SQL, Python, Excel, Power BI, Tableau, and statistical analysis.
-* 🔍 **Focus Areas:** ETL pipelines, KPI tracking, and decision support systems.
-
----
-
-## 💡 My Analytical Philosophy: The Metrics-First Approach
-
-In an era where technical tools are increasingly automated, the true value of an analyst is in **Analytical Judgment and Problem Framing**. Before I write a single line of SQL, I ensure I am crystal clear on:
-
-1. **The Decision:** Pinpointing the exact business choice the stakeholder is stuck on.
-2. **The Northstar KPIs:** Identifying the specific metrics that influence that decision, filtering out the noise.
-3. **The Trade-offs:** Balancing deep-dive technical analysis with speed-to-insight to meet real-world deadlines.
-
----
-
-## 📂 Featured Portfolio Projects (Organized by Business Domain)  
-
-<a href="[https://github.com/Pheonix1998/PROJECTS](https://github.com/Pheonix1998/PROJECTS)">
-<img src="[https://img.shields.io/badge/All_Projects_Repository-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/All_Projects_Repository-181717?style=for-the-badge&logo=github&logoColor=white)">
-</a>
-
----
-
 ## 1. 🏃‍♂️ Health & Product Analytics: User Engagement Optimization (Strava)
 
 <a href="[https://github.com/Pheonix1998/PROJECTS/tree/main/STRAVA%20PROJECT%20FILES](https://github.com/Pheonix1998/PROJECTS/tree/main/STRAVA%20PROJECT%20FILES)">
@@ -517,20 +476,5 @@ Engineered a dynamic Tableau dashboard facilitating exploratory market analysis.
 **Analytics Concepts:** ETL Pipelines | Database Architecture | EDA | KPI Analysis | Business Metrics
 
 **Domain Exposure:** Banking | Ride-Hailing Operations | Health & Fitness Tracking | Retail Decision-Making
-
----
-
-## 🤝 Let's Connect
-
-<a href="[https://www.linkedin.com/in/tathagata-chakraborty-26b03a271/](https://www.linkedin.com/in/tathagata-chakraborty-26b03a271/)" target="_blank">
-<img src="[https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)">
-</a>
-<a href="mailto:tathagata4059@gmail.com">
-<img src="[https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)">
-</a>
-
----
-
-## 📊 GitHub Stats
 
 ---
