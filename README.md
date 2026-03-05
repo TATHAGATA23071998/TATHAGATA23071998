@@ -345,3 +345,82 @@ Banking | Operations | Supply Chain Analytics | Retail Decision-Making
 ![Primary Tools](https://img.shields.io/badge/Primary_Tools-EXCEL%20%7C%20SQL%20%7C%20PYTHON%20%7C%20STREAMLIT%20%7C%20TABLEAU-0B3C5D?style=for-the-badge)
 
 ---
+
+
+## 📂 Featured Portfolio Projects (Organized by Business Domain)  
+<a href="https://github.com/Pheonix1998/PROJECTS">
+<img src="https://img.shields.io/badge/All_Projects_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 1. 🏃‍♂️ Health & Product Analytics: User Engagement Optimization (Strava)
+
+<a href="https://github.com/Pheonix1998/PROJECTS/tree/main/STRAVA%20PROJECT%20FILES">
+<img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Tools:** Python (Pandas) | SQL (SQL Server) | Tableau | ETL Pipeline Design
+
+* 🎯 **Core Metrics Tracked:** Peak Engagement Hours, Average Daily Caloric Burn, Step Volume, Sleep Efficiency.
+* 📌 **The Business Decision:** The product and marketing teams needed to optimize push notification timing but lacked a "Source of Truth" due to highly fragmented user data spread across 18 separate files tracking events on different timelines.
+* 🛠 **Technical Execution & ETL:**
+  * [cite_start]Consolidated 11 distinct raw datasets into a highly optimized Master Fact Table at the daily grain[cite: 41].
+  * [cite_start]Aggregated highly granular second-by-second heart rate and minute-by-minute METs into standardized hourly averages[cite: 78].
+  * [cite_start]Executed a `FULL OUTER JOIN` on the hourly timeline to prevent data loss, followed by a `LEFT JOIN` for daily metrics[cite: 80, 82].
+  * [cite_start]Handled missing activity with `0` and intelligently imputed missing heart rates using the user's personal historical average to protect mathematical integrity[cite: 84].
+* 📊 **Stakeholder Delivery & Outcomes:**
+  * Built a 3-tier interactive Tableau dashboard tracking behavioral cadence.
+  * [cite_start]Discovered the average user records **~7,765 steps** and burns **~2,339 calories** daily[cite: 214].
+  * [cite_start]Identified that engagement volume spikes heavily in the late afternoon and early evening (**16:00 - 20:00**)[cite: 234].
+* 💡 **Strategic Recommendations:**
+  * [cite_start]Target engagement bursts at peak hours (16:00-20:00) with short, contextual nudges[cite: 250].
+  * [cite_start]Schedule social challenges on weekends to maximize baseline participation, retention, and viral spread[cite: 251].
+
+---
+
+### 2. 🚖 Supply Chain & Operations: Ride-Hailing Bottleneck Analysis (OLA)  
+
+<a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/OLADashboard/Dashboard">
+<img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Tools Used:** Python | SQL | Streamlit | Data Visualization  
+
+* 🎯 **Core Metrics Tracked:** Booking Conversion Rate, Revenue Leakage, Driver Cancellation Rate, Turnaround Time.
+* [cite_start]📌 **The Business Decision:** Despite stable platform demand (~42K–46K rides/day), regional operations required a consolidated view to pinpoint bottlenecks, revenue drivers, and service quality gaps causing poor ride completion rates[cite: 271, 580].
+* 🛠 **Technical Execution:**
+  * [cite_start]Evaluated end-to-end operations at the individual booking level using Python and SQL to explicitly identify cancellation drivers[cite: 263, 274].
+  * [cite_start]Segmented payment methods to mathematically correlate transaction types with operational reliability[cite: 276].
+  * Visualized outputs in an interactive Streamlit application to enable real-time operational monitoring for branch managers.
+* 📊 **Stakeholder Delivery & Outcomes:**
+  * [cite_start]Identified massive revenue leakage: nearly **38%** of bookings do not convert into completed rides[cite: 390].
+  * [cite_start]Proved this is overwhelmingly a supply-side issue; the vast majority of customer cancellations (84,474 cases) occur because drivers do not move toward the pickup location[cite: 455].
+  * [cite_start]Found that **Cash** payments generate high booking value but incur the highest operational risk, while **UPI** emerges as the most reliable payment method[cite: 530, 531].
+* 💡 **Strategic Recommendations:**
+  * [cite_start]Introduce stricter penalties for frequent driver cancellations and improve real-time movement tracking[cite: 506, 507, 508].
+  * [cite_start]Aggressively encourage UPI and digital payments to directly improve overall platform completion rates[cite: 659].
+
+---
+
+### 3. 🎮 Market & Strategy Analytics: Product Profitability & ROI (Global Game Sales)
+
+<a href="https://github.com/Pheonix1998/PROJECTS">
+<img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Tools:** Python (Pandas) | SQL | Tableau | Exploratory Data Analysis (EDA)
+
+* 🎯 **Core Metrics Tracked:** Global Sales Volume, Regional Market Share, Average Product Rating, Wishlist Velocity.
+* [cite_start]📌 **The Business Decision:** Marketing and development executives needed to identify top-tier revenue drivers and evaluate platform profitability to strategically guide future resource allocation and localized ad spend[cite: 674, 676].
+* 🛠 **Technical Execution:**
+  * [cite_start]Processed disjointed product and sales datasets using Python to address missing values, handle data type inconsistencies, and correct structural errors[cite: 685].
+  * [cite_start]Executed `INNER JOIN` logic in SQL to successfully unify game attributes with global sales performance and user engagement metrics[cite: 689, 713].
+* 📊 **Stakeholder Delivery & Outcomes:**
+  * [cite_start]Engineered a dynamic Tableau dashboard facilitating exploratory market analysis[cite: 692].
+  * [cite_start]Discovered the **Action ($661.65M)** and **Shooter ($400.68M)** genres are the primary global revenue drivers[cite: 869].
+  * [cite_start]Identified the 'Sweet Spot': Titles rated between **3.5 and 4.0** generate the highest overall sales at **$1,058M**[cite: 872].
+* 💡 **Strategic Recommendations:**
+  * [cite_start]Implement a development **'Quality Gate'** to delay titles projected to score below 3.5, avoiding the steep revenue drop-offs observed with lower-rated games[cite: 896].
+  * [cite_start]Avoid head-to-head competition with Nintendo's massive **46.30%** market share in the family-friendly niche by strategically pivoting to the Shooter genre[cite: 811, 813].
+  * [cite_start]Utilize pre-launch **'Wishlist Velocity'** as a leading indicator to accurately forecast demand and adjust physical copy production volumes[cite: 899, 900].
