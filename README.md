@@ -377,7 +377,7 @@ Banking | Operations | Supply Chain Analytics | Retail Decision-Making
   * Discovered the average user records **~7,765 steps** and burns **~2,339 calories** daily.
   * Identified that engagement volume spikes heavily in the late afternoon and early evening (**16:00 - 20:00**).
   * Discovered a mid-week engagement slump (Wednesday–Friday)
-  * The vast majority of user distance is "Lightly Active" (sedentary/casual walking)
+  * The vast majority of users are "Lightly Active" (sedentary/casual walking)
 
 
 * 💡 **Strategic Recommendations:**
@@ -393,7 +393,7 @@ Banking | Operations | Supply Chain Analytics | Retail Decision-Making
 
 ---
 
-### 2. 🚖 Supply Chain & Operations: Ride-Hailing Bottleneck Analysis (OLA)  
+### 2. 🚖 Supply Chain & Operations: Ride-Hailing Bottleneck Analysis  
 
 <a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/OLADashboard/Dashboard">
 <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -402,19 +402,26 @@ Banking | Operations | Supply Chain Analytics | Retail Decision-Making
 **Tools Used:** Python | SQL | Streamlit | Data Visualization  
 
 * 🎯 **Core Metrics Tracked:** Booking Conversion Rate, Revenue Leakage, Driver Cancellation Rate, Turnaround Time.
-* [cite_start]📌 **The Business Decision:** Despite stable platform demand (~42K–46K rides/day), regional operations required a consolidated view to pinpoint bottlenecks, revenue drivers, and service quality gaps causing poor ride completion rates[cite: 271, 580].
-* 🛠 **Technical Execution:**
-  * [cite_start]Evaluated end-to-end operations at the individual booking level using Python and SQL to explicitly identify cancellation drivers[cite: 263, 274].
-  * [cite_start]Segmented payment methods to mathematically correlate transaction types with operational reliability[cite: 276].
-  * Visualized outputs in an interactive Streamlit application to enable real-time operational monitoring for branch managers.
-* 📊 **Stakeholder Delivery & Outcomes:**
-  * [cite_start]Identified massive revenue leakage: nearly **38%** of bookings do not convert into completed rides[cite: 390].
-  * [cite_start]Proved this is overwhelmingly a supply-side issue; the vast majority of customer cancellations (84,474 cases) occur because drivers do not move toward the pickup location[cite: 455].
-  * [cite_start]Found that **Cash** payments generate high booking value but incur the highest operational risk, while **UPI** emerges as the most reliable payment method[cite: 530, 531].
-* 💡 **Strategic Recommendations:**
-  * [cite_start]Introduce stricter penalties for frequent driver cancellations and improve real-time movement tracking[cite: 506, 507, 508].
-  * [cite_start]Aggressively encourage UPI and digital payments to directly improve overall platform completion rates[cite: 659].
 
+* 📌**The Business Decision:** Despite stable platform demand (~42K–46K rides/day), regional operations required a consolidated view to pinpoint bottlenecks, revenue drivers, and service quality gaps causing poor ride completion rates.
+
+* 🛠 **Technical Execution:**
+  * Evaluated end-to-end operations at the individual booking level using Python and SQL to explicitly identify cancellation drivers.
+  * Segmented payment methods to mathematically correlate transaction types with operational reliability.
+  * Visualized outputs in an interactive Streamlit application to enable real-time operational monitoring for branch managers.
+
+* 📊 **Stakeholder Delivery & Outcomes:**
+  * Identified massive revenue leakage: nearly **38%** of bookings do not convert into completed rides.
+  * Found huge supply-side issue; the vast majority of customer cancellations (84,474 cases) occur because drivers do not move toward the pickup location.
+  * Found that **Cash** payments generate high booking value but incur the highest operational risk, while **UPI** emerges as the most reliable payment method.
+
+* 💡 **Strategic Recommendations:**
+  * Introduce stricter penalties for frequent driver cancellations and improve real-time movement tracking.
+  * Aggressively encourage UPI and digital payments to directly improve overall platform completion rates.
+
+
+* Tableau Dashboard - <a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/OLADashboard/Dashboard" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="My Tableau Profile" width="200"/>
+</a>
 ---
 
 ### 3. 🎮 Market & Strategy Analytics: Product Profitability & ROI (Global Game Sales)
