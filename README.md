@@ -72,10 +72,10 @@ I am a Business Analyst with hands-on experience across business banking, supply
 **Tools Used:** SQL Server (SSMS) | Python (Pandas) | Tableau | Streamlit  
 
  **(a) Core Metrics Tracked:** 
-  * Total Booking Value (₹56.5M)
+  * Total Booking Value (₹56.53M)
   * Successful Booking Rate (62.09%)
   * Total Ride Volume (103,024)
-  * Total Booking Value (Rs 56.53 Million)
+  * Cancellations by Drivers > Cancellations by Customers
 
  **(b) The Business Decision (Problem Framing):**  Regional operations were experiencing a massive 38% ride failure rate. The executive team needed to definitively answer whether this was a demand-side marketing issue or a supply-side operational bottleneck in order to stop the ₹56.5M revenue leakage.
 
