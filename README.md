@@ -63,7 +63,7 @@ I am a Business Analyst with hands-on experience across business banking, supply
 
 ---
 
-### 2. 🚖 Supply Chain & Operations: Ride-Hailing Bottleneck Analysis  
+### 2. 🚖 Customer Service Operations: Ride-Hailing Bottleneck Analysis  
 
 <a href="https://github.com/TATHAGATA23071998/PROJECTS/tree/main/RIDE%20SERVICE%20PROJECT">
 <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -93,7 +93,7 @@ I am a Business Analyst with hands-on experience across business banking, supply
   * **Focus on Supply Retention:** Acknowledge that demand is stable; redirect organizational focus entirely toward operational control, vehicle maintenance programs, and driver retention to seal the 38% revenue leak.
 
 
-* **Tableau Dashboard** - <a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/RIDESERVICECOMPANYDASHBOARD/Dashboard" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="My Tableau Profile" width="200"/></a>
+* **Tableau Dashboard** - <a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/RIDESERVICEANALYSISDASHBOARD/Dashboard" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="My Tableau Profile" width="200"/></a>
 
 * **Streamlit Dashboard** - [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://python-app-7a2zufxyiynnnvdy5glrcu.streamlit.app/)
 
