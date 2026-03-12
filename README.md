@@ -12,7 +12,7 @@ I am a Business Analyst with hands-on experience across business banking, supply
 ---
 
 ## 🧠 What I Deliver as a Business Analyst ?
-- Transform messy, fragmented datasets into reliable Single Sources of Truth for reporting**
+- Transform messy, fragmented datasets into reliable Single Sources of Truth for reporting
 - Design and develop interactive executive dashboards to track **KPIs and business health**
 - Query and synthesize large-scale databases to **uncover hidden revenue drivers and operational bottlenecks**
 - Perform predictive forecasting and trend analysis to guide proactive business strategies.
