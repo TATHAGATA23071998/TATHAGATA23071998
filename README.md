@@ -28,7 +28,7 @@ I am a Business Analyst with hands-on experience across business banking, supply
 
 ### 1. 🏃‍♂️ Health & Product Analytics: User Engagement Optimization
 
-<a href="https://github.com/Pheonix1998/PROJECTS/tree/main/STRAVA%20PROJECT%20FILES">
+<a href="https://github.com/TATHAGATA23071998/PROJECTS/tree/main/STRAVA%20PROJECT%20FILES">
 <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
