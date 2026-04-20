@@ -48,7 +48,7 @@ I am a Business Analyst with hands-on experience across business banking, supply
 
 <details><summary><b>🛠️ Technical Execution (Click to expand)</b></summary>
 <i><b>Tools:</b> Python | SQL (SQL Server) | Tableau | ETL Pipeline Design</i><br>
-Designed a robust Python ETL pipeline to consolidate 11 distinct raw datasets into a single, daily-granular Master Fact Table. Exercised strong analytical judgment during data cleaning: rather than filling missing heart rate data with generic zeros (which would destroy the mathematical integrity of health metrics), imputed missing data using the user's specific historical averages.
+Designed a robust Python ETL pipeline to consolidate 8 distinct raw datasets into a single, daily-granular Master Fact Table. Exercised strong analytical judgment during data cleaning: rather than filling missing heart rate data with generic zeros (which would destroy the mathematical integrity of health metrics), imputed missing data using the user's specific historical averages.
 </details>
 
 <br>
