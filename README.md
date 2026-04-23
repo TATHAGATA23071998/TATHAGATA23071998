@@ -61,7 +61,7 @@ Designed a robust Python ETL pipeline to consolidate 8 distinct raw datasets int
 
 ### 2. 🚖 Ride-Hailing Operations: Revenue Leakage & Supply-Side Bottlenecks  
 
-<a href="https://github.com/TATHAGATA23071998/PROJECTS/tree/main/RIDE%20SERVICE%20PROJECT">
+<a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/RIDESERVICEANALYSISDASHBOARD/Dashboard">
 <img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
