@@ -94,7 +94,7 @@ Engineered a highly optimized Star Schema in SQL Server to process 100,000+ tran
 
 ---
 ## 🖥️ Interactive Application-Based Dashboards
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/)
 
 <a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/vizzes" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="My Tableau Profile" width="200"/>
@@ -135,5 +135,3 @@ Engineered a highly optimized Star Schema in SQL Server to process 100,000+ tran
 ![Profile Views](https://komarev.com/ghpvc/?username=Pheonix1998&style=for-the-badge)
 
 ![Primary Tools](https://img.shields.io/badge/Primary_Tools-EXCEL%20%7C%20SQL%20%7C%20PYTHON%20%7C%20STREAMLIT%20%7C%20TABLEAU-0B3C5D?style=for-the-badge)
-
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/)
