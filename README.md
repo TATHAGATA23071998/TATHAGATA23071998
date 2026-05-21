@@ -125,3 +125,222 @@ Engineered a highly optimized Star Schema in SQL Server to process 100,000+ tran
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Pheonix1998&style=for-the-badge)
 ![Primary Tools](https://img.shields.io/badge/Primary_Tools-EXCEL%20%7C%20SQL%20%7C%20PYTHON%20%7C%20STREAMLIT%20%7C%20TABLEAU-0B3C5D?style=for-the-badge)
+
+
+# 👋 Hi, I'm Tathagata Chakraborty
+
+I am a Business Analyst with experience across business banking, operations, and supply chain analytics. I specialize in transforming raw and fragmented datasets into actionable business insights that support strategic decision-making, operational efficiency, and performance optimization.
+
+---
+
+## 🚀 About Me
+
+- 🎓 PGDM in Supply Chain & Analytics  
+- 🏦 Former ICICI Bank professional with exposure to MSME & Retail Banking  
+- 📊 Skilled in SQL, Python, Excel, Power BI, Tableau, and statistical analysis  
+- 🔍 Interested in business intelligence, operational analytics, process optimization, and decision support systems  
+
+---
+
+## 🧠 What I Bring as a Business Analyst
+
+- Transform complex datasets into reliable reporting and analytical frameworks.
+- Build KPI-focused dashboards for executive and operational decision-making.
+- Analyze business performance to identify growth opportunities and process inefficiencies.
+- Perform forecasting, trend analysis, and data-driven performance monitoring.
+- Translate analytical findings into clear and actionable stakeholder recommendations.
+
+---
+
+# 📂 Featured Analytics Projects
+
+<a href="https://github.com/Pheonix1998/PROJECTS">
+<img src="https://img.shields.io/badge/All_Projects_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+# 1. 🏃‍♂️ HealthTech User Engagement & Retention Analysis
+
+<a href="https://github.com/TATHAGATA23071998/PROJECTS/tree/main/STRAVA%20PROJECT%20FILES">
+<img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+## 📌 Business Problem
+
+The organization experienced declining user engagement and noticeable mid-week activity drop-offs, impacting overall retention and Customer Lifetime Value (CLTV). The objective was to identify behavioral patterns and recommend data-driven strategies to improve long-term engagement.
+
+---
+
+## 📊 Core Metrics Tracked
+
+- Average Daily Steps: ~7,765  
+- Active Minutes: ~231  
+- Average Sleep Duration: ~5.8 Hours  
+- Daily Active Users (DAU)
+
+---
+
+## 🔍 Key Insights
+
+- Identified a significant engagement spike during *International Nurses Day*, highlighting healthcare professionals as a highly engaged user segment.
+- Observed a correlation between lower sleep duration and reduced mid-week engagement levels.
+- Identified concentrated engagement windows between **12:00–14:00** and **17:00–19:00**, indicating usage behavior aligned closely with work schedules and shift patterns.
+
+---
+
+## 💡 Strategic Recommendations
+
+- Develop a recovery and wellness-focused feature module to improve user consistency and retention.
+- Schedule push notifications and engagement campaigns during peak activity windows.
+- Build targeted campaigns and premium engagement features for high-retention user groups.
+
+---
+
+<details>
+<summary><b>🛠️ Technical Execution (Click to expand)</b></summary>
+
+<br>
+
+**Tools Used:** Python | SQL Server | Tableau | ETL Pipeline Design  
+
+- Built a Python-based ETL pipeline integrating 8 separate datasets into a unified master fact table.
+- Performed data cleaning, transformation, and feature engineering for behavioral analysis.
+- Applied user-level historical imputation techniques to preserve the integrity of health-related metrics.
+- Designed Tableau dashboards to support exploratory analysis and stakeholder reporting.
+
+</details>
+
+<br>
+
+## 📈 Live Dashboard
+
+<a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/HEALTH-TECHANALYSIS/Dashboard" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau Dashboard" width="150"/>
+</a>
+
+---
+
+# 2. 🚖 Ride-Hailing Operations: Revenue Leakage & Supply Bottleneck Analysis
+
+<a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/RIDESERVICEANALYSISDASHBOARD/Dashboard">
+<img src="https://img.shields.io/badge/Project_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+## 📌 Business Problem
+
+The ride-hailing operation faced a high ride failure rate and substantial revenue leakage. The objective was to determine whether operational inefficiencies originated from demand-side issues or supply-side constraints and identify actionable process improvements.
+
+---
+
+## 📊 Core Metrics Tracked
+
+- Total Booking Value: ₹56.53M  
+- Successful Booking Rate: 62.09%  
+- Total Ride Volume: 103,024  
+- Ride Wait Time (TAT)
+
+---
+
+## 🔍 Key Insights
+
+- Analysis indicated that operational inefficiencies were driven primarily by supply-side factors, especially driver cancellations.
+- Identified behavioral patterns where drivers accepted rides but remained inactive, contributing to customer-side cancellations.
+- Found that cash payments were associated with comparatively higher cancellation frequencies than digital payment methods.
+
+---
+
+## 💡 Strategic Recommendations
+
+- Introduce GPS-based reassignment and driver accountability mechanisms to reduce idle acceptance behavior.
+- Encourage digital payment adoption through targeted incentives and promotional campaigns.
+- Strengthen partnerships for vehicle maintenance and operational support to reduce driver downtime.
+
+---
+
+<details>
+<summary><b>🛠️ Technical Execution (Click to expand)</b></summary>
+
+<br>
+
+**Tools Used:** SQL Server (SSMS) | Python (Pandas) | Tableau | Streamlit  
+
+- Designed and optimized a Star Schema to process and analyze 100,000+ transactional records efficiently.
+- Created a Junk Dimension to manage unstructured cancellation categories and operational flags.
+- Performed missing value treatment and statistical imputation to maintain reporting consistency.
+- Developed interactive dashboards and Streamlit applications for operational performance tracking.
+
+</details>
+
+<br>
+
+## 📈 Live Dashboards
+
+<a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/viz/RIDESERVICEANALYSISDASHBOARD/Dashboard" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau Dashboard" width="100"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://python-app-7a2zufxyiynnnvdy5glrcu.streamlit.app/)
+
+---
+
+# 🖥️ Interactive Dashboards & Applications
+
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright)
+
+<a href="https://public.tableau.com/app/profile/tathagata.chakraborty5102/vizzes" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau Profile" width="200"/>
+</a>
+
+---
+
+# 🛠️ Tools & Skills
+
+## Languages & Tools
+
+SQL | Python | R | Excel | Power BI | Tableau | Streamlit
+
+---
+
+## Analytics & Business Concepts
+
+- Exploratory Data Analysis (EDA)
+- KPI Analysis & Business Reporting
+- Forecasting & Trend Analysis
+- OLAP vs OLTP Systems
+- Data Cleaning & Transformation
+- Dashboard Development
+- ETL Pipeline Design
+- Statistical Analysis
+
+---
+
+## Domain Exposure
+
+- Banking & Financial Services
+- Operations Analytics
+- Supply Chain Analytics
+- Retail & Customer Analytics
+- Business Performance Monitoring
+
+---
+
+# 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/tathagata-chakraborty-26b03a271/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:tathagata4059@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+---
+
+# 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pheonix1998&style=for-the-badge)
+
+![Primary Tools](https://img.shields.io/badge/Primary_Tools-EXCEL%20%7C%20SQL%20%7C%20PYTHON%20%7C%20STREAMLIT%20%7C%20TABLEAU-0B3C5D?style=for-the-badge)
