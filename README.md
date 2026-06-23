@@ -103,7 +103,7 @@ Engineered a highly optimized Star Schema in SQL Server to process 100,000+ tran
 ---
 ## 🛠️ Tools & Skills
 
-**Languages & Tools:** SQL | Python | R | Excel | Power BI | Tableau  
+**Languages & Tools:** SQL | Python | Excel | Tableau  
 
 **Analytics Concepts:** EDA | Forecasting | KPI Analysis | OLAP vs OLTP | Business Metrics  
 
