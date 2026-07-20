@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Tathagata Chakraborty
-I am a Business Analyst with hands-on experience across business banking, supply chain, and operations. I focus on converting raw data into actionable insights that support **business decisions, operational efficiency, and measurable outcomes**.
+I am a Data and Business Analyst with hands-on experience across business banking, supply chain, and operations. I focus on converting raw data into actionable insights that support **business decisions, operational efficiency, and measurable outcomes**.
 
 ---
 
 ## 🚀 About Me
-- 🎓 PGDM in **Supply Chain & Analytics**
+- 🎓 PGDM in ** Operations (Supply Chain) & Analytics**
 - 🏦 Former **ICICI Bank** professional (MSME & Retail Banking)
 - 📊 Strong working knowledge of **SQL, Python, Excel and Tableau**, and statistical analysis
 - 🔍 Interested in **data-driven strategy, process optimization, and decision support systems**
