@@ -4,7 +4,7 @@ I am a Data and Business Analyst with hands-on experience across business bankin
 ---
 
 ## 🚀 About Me
-- 🎓 PGDM in ** Operations (Supply Chain) & Analytics**
+- 🎓 PGDM in ** Operations & Analytics**
 - 🏦 Former **ICICI Bank** professional (MSME & Retail Banking)
 - 📊 Strong working knowledge of **SQL, Python, Excel and Tableau**, and statistical analysis
 - 🔍 Interested in **data-driven strategy, process optimization, and decision support systems**
